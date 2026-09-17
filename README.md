@@ -2,16 +2,17 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Mohammed Hamad 
+- **CCID:** mahamad2@ualberta.ca
 
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
+Canva 
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
+|       NA     |     NA    |
 | `<Add more>` | `<CCID>`  |
